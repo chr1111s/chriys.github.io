@@ -8,3 +8,5 @@ Superman ist Klar Kent. Er hat schwarze Haare und eine Brille, Frauen vergötter
 * Laser Blick
 * herzlich
 
+> Ich bin Superman. Verschwinde Boeses!
+
