@@ -10,3 +10,6 @@ Superman ist Klar Kent. Er hat schwarze Haare und eine Brille, Frauen vergötter
 
 > Ich bin Superman. Verschwinde Boeses!
 
+<img src="https://de.wikipedia.org/wiki/Superman#/media/Datei:Superman_Logo.svg"/>
+
+
